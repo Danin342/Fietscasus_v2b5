@@ -1,25 +1,9 @@
 # Organisatorische Context FietsCasus
 
-Fietsen en scooter winkel
-Bedrijf sinds 1997
-Fietsen rij klaarmaken voor studenten en normale mensen
-Nieuwe en gebruikte fietsen en scooters
-verkoop en opknapwerk
+## FreeWheeler
 
-Eigenaar Rajender de graaff samen met vader opgezet in 1997
+Het bedrijf bestaat sinds 1997 en heet FreeWheeler. Het is opgericht door Rajender de graaff en zijn vader. Zij kwamen beide van andere branches en zijn in Utrecht samen gekomen om een fiets en scooter bedrijf te maken.
 
-23 jaar
-
-werknemers doen alles
-aantal 4 vaste krachten
-6 dagen per week open
-07:00 tot 18:00 open
-
-1. verkoop marktplaats scooter
-2. contact via app
-3. appt bon
-4. klan betaalt bon
-
-Dit automatiseren
-
-Reparatie kaartjes
+FreeWheeler verkoopt nieuwe en tweedehands Fietsen en Scooters. Ze reparenen ook de fietsen en scooters.
+Ze hebben 1 winkel in Utrecht die is 6 dagen in de week open van 07:00 tot 18:00. Ze bestaan uit een team van 4 vaste krachten.
+De werknemers kunnen je helpen met kopen, advies geven en het reparen van je fiets of scooter.
