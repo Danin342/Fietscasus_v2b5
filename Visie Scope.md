@@ -33,8 +33,8 @@ Uit de aanleiding hebben wij meerdere knelpunten geconstateerd. Dit zijn:
 
 #### Onleesbaar handschrift
 
-Door de stap van het schrijven van de kaartjes te automatiseren zullen er geen problemen meer komen van het niet kunnen lezen door een slecht handschrift. Dit kan namelijk dan uitgeprint worden. Dit zorgt voor duidelijkere contactgegevens van de klant. <br>
-Ook door het automatiseren van dit proces kan een klant kijken hoe ver zijn fiets is. Door live updates te kunnen sturen naar de klant hebben ze een idee van hoe laat de fiets klaar zal zijn
+Door een onleesbaar handschrift kan er gebeuren dat je meer dingen gaat doen dan dat de klant gevraagd had, omdat je het kaartje niet kan lezen. Waardoor je meer gaat doen en de klant dus een hogere kost krijgt.
+Door het in te vullen van klantgegevens in een form en het dan uitprinten, zal het reparatie kaartje duidelijk zijn en dan is het probleem van onleesbaar handschrift opgelost.
 
 ### Reparatie prioriteit
 
