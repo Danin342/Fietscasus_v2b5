@@ -27,7 +27,7 @@ Door het automatiseren van dit process willen we het simpel en begrijpelijk make
 Uit de aanleiding hebben wij meerdere knelpunten geconstateerd. Dit zijn:
 
 -   Onleesbaar handschrift
--   Reparatie prioriteit
+-   Reparatie wachtlijst
 
 ### Kansen
 
@@ -36,8 +36,9 @@ Uit de aanleiding hebben wij meerdere knelpunten geconstateerd. Dit zijn:
 Door een onleesbaar handschrift kan er gebeuren dat je meer dingen gaat doen dan dat de klant gevraagd had, omdat je het kaartje niet kan lezen. Waardoor je meer gaat doen en de klant dus een hogere kost krijgt.
 Door het in te vullen van klantgegevens in een form en het dan uitprinten, zal het reparatie kaartje duidelijk zijn en dan is het probleem van onleesbaar handschrift opgelost.
 
-### Reparatie prioriteit
+### Reparatie wachtlijst
 
-Als het proces geautomatiseerd is kan er ook een tijd aan gekoppeld worden. Deze tijd geeft dan aan welke fietsen als eerste aankwamen en dus als eerst gerepareerd kan worden. Dit geeft een duidelijk overzicht van wat de wachtijd zal zijn voor de andere fietsen.
+Als er te veel mensen tussen 10 en 12 komen voor een reparatie, dan heb je het probleem dat het misschien niet vandaag of morgen af komt.
+Door te kijken hoeveel fietsen of scooters je al hebt staan en te kijken hoe lang het ongeveer zal duren, kan je de klant een beter beeld geven over hoelang het duurt.
 
 [Begin](./README.md)
