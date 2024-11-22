@@ -19,3 +19,8 @@ assignees: ""
 -   [ ] Issue is gedocumenteerd
 -   [ ] Issue is gereviewed
 -   [ ] Issue is getest
+-   [ ] Acceptatie criteria is behaald
+
+## Acceptatie criteria
+
+- [ ] 
