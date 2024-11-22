@@ -41,4 +41,4 @@ Door het in te vullen van klantgegevens in een form en het dan uitprinten, zal h
 Als er te veel mensen tussen 10 en 12 komen voor een reparatie, dan heb je het probleem dat het misschien niet vandaag of morgen af komt.
 Door te kijken hoeveel fietsen of scooters je al hebt staan en te kijken hoe lang het ongeveer zal duren, kan je de klant een beter beeld geven over hoelang het duurt.
 
-[Begin](./README.md)
+[Begin](../README.md)

@@ -8,4 +8,4 @@ FreeWheeler verkoopt nieuwe en tweedehands Fietsen en Scooters. Ze reparenen ook
 Ze hebben 1 winkel in Utrecht die is 6 dagen in de week open van 07:00 tot 18:00. Ze bestaan uit een team van 4 vaste krachten.
 De werknemers kunnen je helpen met kopen, advies geven en het reparen van je fiets of scooter.
 
-[Begin](./README.md)
+[Begin](../README.md)

@@ -5,4 +5,4 @@ De eigenaar van FreeWheeler wilt graag dat het reperatieprocess wordt geautamati
 
 Door het automatiseren van dit process willen we het simpel en begrijpelijk maken van de reparatiekaartjes. Dit zorgt voor veel meer overzicht en uiteindelijk een snelle manier van werken.
 
-[Begin](./README.md)
+[Begin](../README.md)

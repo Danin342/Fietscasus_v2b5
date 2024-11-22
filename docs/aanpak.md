@@ -15,4 +15,4 @@ Ook door het automatiseren van dit proces kan een klant kijken hoe ver zijn fiet
 ### Reparatie prioriteit
 Als het proces geautomatiseerd is kan er ook een tijd aan gekoppeld worden. Deze tijd geeft dan aan welke fietsen als eerste aankwamen en dus als eerst gerepareerd kan worden. Dit geeft een duidelijk overzicht van wat de wachtijd zal zijn voor de andere fietsen.
 
-[Begin](./README.md)
+[Begin](../README.md)
