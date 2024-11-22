@@ -16,4 +16,6 @@ assignees: ""
 
 ## Definition of Done (DoD)
 
--   [ ]
+-   [ ] Issue is gedocumenteerd
+-   [ ] Issue is gereviewed
+-   [ ] Issue is getest
